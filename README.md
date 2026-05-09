@@ -50,3 +50,9 @@ To run on a personal computer with 16GB of RAM, the number of records in the tra
 ![Figure 1](https://github.com/ablanco1950/Drone_Detection-Fastercnn_fpn-CustomDataset/blob/main/Figure_76.png)
 
 ![Figure 1](https://github.com/ablanco1950/Drone_Detection-Fastercnn_fpn-CustomDataset/blob/main/Figure_88.png)
+
+References:
+
+https://universe.roboflow.com/drone-detection-pexej/drone-detection-data-set-yolov7/dataset/1
+
+
