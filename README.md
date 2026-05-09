@@ -46,3 +46,7 @@ Comments:
 To run on a personal computer with 16GB of RAM, the number of records in the training file has been reduced to 500 (this can be modified by changing line 117 of the train.py program), and the number of epochs has been reduced to 5. Despite this, the results are satisfactory, and based on the tests performed, it is the best at detecting drones among the projects listed in the references. However, it has a significant problem: it sometimes detects people, cars, and other objects from COCO, which seems to indicate that the model inherits weights from the pre-trained COCO model at some point, or that the number of training epochs was insufficient.
 
 ![Figure 1](https://github.com/ablanco1950/Drone_Detection-Fastercnn_fpn-CustomDataset/blob/main/Figure_44.png)
+
+![Figure 1](https://github.com/ablanco1950/Drone_Detection-Fastercnn_fpn-CustomDataset/blob/main/Figure_76.png)
+
+![Figure 1](https://github.com/ablanco1950/Drone_Detection-Fastercnn_fpn-CustomDataset/blob/main/Figure_88.png)
