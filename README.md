@@ -57,6 +57,10 @@ https://universe.roboflow.com/drone-detection-pexej/drone-detection-data-set-yol
 
 https://github.com/ablanco1950/Drone-Detection_Yolov10
 
+https://github.com/ablanco1950/Drone_Detection_RFDETRBase
+
+https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html
+
 
 
 
