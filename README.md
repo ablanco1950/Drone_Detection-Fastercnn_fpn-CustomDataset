@@ -59,6 +59,8 @@ https://github.com/ablanco1950/Drone-Detection_Yolov10
 
 https://github.com/ablanco1950/Drone_Detection_RFDETRBase
 
+https://github.com/ablanco1950/Drone-Detection-fasterrcnn_resnet50_fpn
+
 https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html
 
 
